@@ -6,6 +6,5 @@ h1 {
 }
 #nav-td {width: 200px; text-align: center;}
 #my-banner {
-  align-left: auto;
-  align-right: auto;
+  align-right: 400px;
 }
