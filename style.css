@@ -4,6 +4,4 @@ body {
 h1 {
   text-align: center;
 }
-#nav-table {
-  width:200px; text-align:center;
-}
+#nav-table {width: 800px;}
