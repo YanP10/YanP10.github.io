@@ -5,4 +5,9 @@ h1 {
   text-align: center;
 }
 #nav-td {width: 200px; text-align: center;}
-#banner {text-align: center;}
+#banner {
+  display: block;
+  align-left: auto;
+  align-right: auto;
+  width: 50%;
+}
