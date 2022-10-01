@@ -23,3 +23,15 @@ h2 {
   height: 200px;
   width: 45%;
 }
+#dancing {
+  float: left;
+}
+#racing {
+  float: left;
+}
+#dancingFun {
+  float: right;
+}
+#racingFun {
+  float: right;
+}
